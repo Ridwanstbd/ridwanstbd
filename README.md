@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Saya seorang **Technical Freelance** di [EstontInc].<br>
+Saya seorang **Technical Freelance** di **EstontInc**.<br>
 
 Saya bertanggung jawab pada development aplikasi berbasis web.<br>
 
